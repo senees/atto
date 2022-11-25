@@ -1,6 +1,6 @@
 [package]
 name = "atto"
-version = "0.0.2"
+version = "0.0.3"
 authors = ["senees <code@senees.de>"]
 description = "atto"
 documentation = "https://docs.rs/atto"
