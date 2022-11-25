@@ -1,9 +1,9 @@
 [package]
 name = "atto"
-version = "0.0.1"
-authors = ["Dariusz Depta <dariusz.depta@engos.software>"]
+version = "0.0.2"
+authors = ["senees <code@senees.de>"]
 description = "atto"
 documentation = "https://docs.rs/atto"
-repository = "https://github.com/EngosSoftware/atto.git"
+repository = "https://github.com/senees/atto.git"
 license = "MIT"
 edition = "2021"
